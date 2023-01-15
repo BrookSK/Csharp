@@ -1,0 +1,11 @@
+F:\Lucas\Outros\Installers\Visual Studio\PROJETOS\EnviarMensagemWhatsApp\obj\Debug\EnviarMensagemWhatsApp.csproj.AssemblyReference.cache
+F:\Lucas\Outros\Installers\Visual Studio\PROJETOS\EnviarMensagemWhatsApp\obj\Debug\EnviarMensagemWhatsApp.csproj.SuggestedBindingRedirects.cache
+F:\Lucas\Outros\Installers\Visual Studio\PROJETOS\EnviarMensagemWhatsApp\obj\Debug\EnviarMensagemWhatsApp.csproj.CoreCompileInputs.cache
+F:\Lucas\Outros\Installers\Visual Studio\PROJETOS\EnviarMensagemWhatsApp\bin\Debug\EnviarMensagemWhatsApp.exe.config
+F:\Lucas\Outros\Installers\Visual Studio\PROJETOS\EnviarMensagemWhatsApp\bin\Debug\EnviarMensagemWhatsApp.exe
+F:\Lucas\Outros\Installers\Visual Studio\PROJETOS\EnviarMensagemWhatsApp\bin\Debug\EnviarMensagemWhatsApp.pdb
+F:\Lucas\Outros\Installers\Visual Studio\PROJETOS\EnviarMensagemWhatsApp\bin\Debug\WindowsInput.dll
+F:\Lucas\Outros\Installers\Visual Studio\PROJETOS\EnviarMensagemWhatsApp\bin\Debug\WindowsInput.xml
+F:\Lucas\Outros\Installers\Visual Studio\PROJETOS\EnviarMensagemWhatsApp\obj\Debug\EnviarMensagemWhatsApp.csproj.CopyComplete
+F:\Lucas\Outros\Installers\Visual Studio\PROJETOS\EnviarMensagemWhatsApp\obj\Debug\EnviarMensagemWhatsApp.exe
+F:\Lucas\Outros\Installers\Visual Studio\PROJETOS\EnviarMensagemWhatsApp\obj\Debug\EnviarMensagemWhatsApp.pdb

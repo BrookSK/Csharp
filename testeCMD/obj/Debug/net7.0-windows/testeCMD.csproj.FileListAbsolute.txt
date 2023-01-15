@@ -1,0 +1,17 @@
+F:\Lucas\Outros\Installers\Visual Studio\PROJETOS\testeCMD\bin\Debug\net7.0-windows\testeCMD.exe
+F:\Lucas\Outros\Installers\Visual Studio\PROJETOS\testeCMD\bin\Debug\net7.0-windows\testeCMD.deps.json
+F:\Lucas\Outros\Installers\Visual Studio\PROJETOS\testeCMD\bin\Debug\net7.0-windows\testeCMD.runtimeconfig.json
+F:\Lucas\Outros\Installers\Visual Studio\PROJETOS\testeCMD\bin\Debug\net7.0-windows\testeCMD.dll
+F:\Lucas\Outros\Installers\Visual Studio\PROJETOS\testeCMD\bin\Debug\net7.0-windows\testeCMD.pdb
+F:\Lucas\Outros\Installers\Visual Studio\PROJETOS\testeCMD\obj\Debug\net7.0-windows\testeCMD.csproj.AssemblyReference.cache
+F:\Lucas\Outros\Installers\Visual Studio\PROJETOS\testeCMD\obj\Debug\net7.0-windows\testeCMD.Form1.resources
+F:\Lucas\Outros\Installers\Visual Studio\PROJETOS\testeCMD\obj\Debug\net7.0-windows\testeCMD.csproj.GenerateResource.cache
+F:\Lucas\Outros\Installers\Visual Studio\PROJETOS\testeCMD\obj\Debug\net7.0-windows\testeCMD.GeneratedMSBuildEditorConfig.editorconfig
+F:\Lucas\Outros\Installers\Visual Studio\PROJETOS\testeCMD\obj\Debug\net7.0-windows\testeCMD.AssemblyInfoInputs.cache
+F:\Lucas\Outros\Installers\Visual Studio\PROJETOS\testeCMD\obj\Debug\net7.0-windows\testeCMD.AssemblyInfo.cs
+F:\Lucas\Outros\Installers\Visual Studio\PROJETOS\testeCMD\obj\Debug\net7.0-windows\testeCMD.csproj.CoreCompileInputs.cache
+F:\Lucas\Outros\Installers\Visual Studio\PROJETOS\testeCMD\obj\Debug\net7.0-windows\testeCMD.dll
+F:\Lucas\Outros\Installers\Visual Studio\PROJETOS\testeCMD\obj\Debug\net7.0-windows\refint\testeCMD.dll
+F:\Lucas\Outros\Installers\Visual Studio\PROJETOS\testeCMD\obj\Debug\net7.0-windows\testeCMD.pdb
+F:\Lucas\Outros\Installers\Visual Studio\PROJETOS\testeCMD\obj\Debug\net7.0-windows\testeCMD.genruntimeconfig.cache
+F:\Lucas\Outros\Installers\Visual Studio\PROJETOS\testeCMD\obj\Debug\net7.0-windows\ref\testeCMD.dll
